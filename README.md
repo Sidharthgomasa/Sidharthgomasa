@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Sidharthgomasa
-- 👀 I’m interested in UI DESIGNING,WEB DEVELOPMENT,AI Based CHATBOTS.
-- 🌱 I’m currently learning FIGMA SOFTWARE and programming language like (python-c-java).
-- 💞️ I’m looking to collaborate on Figma UI WEB DESIGNING Project's,AI based CHATBOTS.
+- 👀 I’m interested in UI DESIGNING,WEB DEVELOPMENT,AI Based CHATBOTS......
+- 🌱 I’m currently pursuing [BTECH]-learning FIGMA SOFTWARE and programming language like (python-c-java).....
+- 💞️ I’m looking to collaborate on Figma UI WEB DESIGNING Project's,Web Design.....
 - 📫 How to reach me - sidharthgomasa04@gmail.com
 
 <!---
